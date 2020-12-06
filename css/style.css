@@ -1,0 +1,143 @@
+body{
+    background-color: rgba(125, 125, 126, 0.2);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+ul {
+    position: relative;
+    border-radius: 5px;
+    background-color: rgb(54, 54, 54);
+    display: flex;
+    /* justify-content: center; */
+    padding: 0 20px;
+    align-items: center;
+    padding-right: 20px;
+    height: 50px;
+}
+li {
+    /* flex: 3; */
+    display: inline-flex;
+    /* justify-content: space-between; */
+    margin-left: 30px;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(248, 147, 180);
+    /* font-size: 18px; */
+}
+
+.header {
+    font-size: 17px;
+    width:900px;
+    height: 70px;
+}
+
+#name{
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgb(228, 116, 153);
+    color: rgb(250, 242, 244);
+    text-align: center;
+    /* height: 40px; */
+    padding: 10px;
+    width: 100px;
+    position: absolute;
+    right: 60px;
+    border-radius: 5px;
+    transition: padding 1s;
+}
+
+#name:hover{
+    color:black;
+    padding:12px 23px;
+
+}
+
+.body{
+    align-items: center;
+    width:800px;
+    margin:auto;
+    background-color: rgb(249, 252, 255);
+    /* border-radius: 20px; */
+    padding: 50px;
+}
+
+.index-intro {
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: bold;
+} 
+
+.index-categories {
+    width: 800px;
+    margin: auto;
+    /* background-color: pink; */
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.index-categories-lisst div {
+    margin:20px;
+    width: 150px;
+    height: 200px;
+    display: inline-flex;
+    background-color: rgb(248, 239, 187);
+    justify-content: center;
+}
+
+.signup-form {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
+
+.log_btn{
+    /* width: 80px; */
+    background-color: pink;
+    border:none;
+    border-radius: 3px;
+}
+
+.log_btn:hover {
+    background-color:rgb(238, 131, 149);
+    color: white;
+}
+
+
+
+.signup-form-form input, button{
+    /* display: flex; */
+   width: 200px;
+   height: 30px;
+   margin-top: 10px;
+   
+}
+
+.addevents {
+    text-align: center;
+    margin-top: 50px;
+} 
+
+.error{
+    color: red;
+    padding-top: 50px;
+
+}

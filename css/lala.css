@@ -1,0 +1,105 @@
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    font-size: 14px;
+    display: flex;
+    width: 100%;    
+}
+
+.table{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    /* margin-top: 50px; */
+}
+
+.data_table{
+    border-collapse: collapse;
+    margin-bottom: 50px;
+}
+
+th{
+    padding: 7px 0;
+    background-color: pink;
+}
+
+td{
+    border: solid 1px rgb(199, 197, 197);
+    padding: 8px;
+    width: 100px;
+    font-size: 13px;
+}
+
+.form_group{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 13px;
+}
+
+input{
+    font-size: 12px;
+    height: 20px;
+    width: 190px;
+    color: rgb(37, 37, 37);
+}
+.save_btn {
+    width: 80px;
+    background-color: pink;
+    border:none;
+    border-radius: 3px;
+}
+.save_btn:hover {
+    background-color:rgb(238, 131, 149);
+    color: white;
+}
+.update_btn{
+    width: 100px;
+    background-color: rgb(170, 238, 124);
+    border:none;
+    border-radius: 3px;
+}
+.update_btn:hover{
+    background-color: rgb(81, 165, 26);
+    color: white;
+}
+.buttons{
+    margin-left: 10px;
+}
+.edit_btn{
+    background-color: rgb(170, 238, 124);
+    padding: 3px 8px;
+    border-radius: 3px;
+    text-decoration: none;
+    color:black;
+    margin-right: 5px;
+}
+.edit_btn:hover{
+    background-color:rgb(81, 165, 26);
+    color: white;
+}
+.delete_btn{
+    background-color: rgb(156, 236, 241);
+    padding: 3px 6px;
+    border-radius: 3px;
+    text-decoration: none;
+    color:black;
+}
+.delete_btn:hover{
+    background-color: rgb(46, 166, 247);
+    color: white;
+}
+
+.manage_form{
+    background-color: rgb(250, 233, 233);
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+/* .payment_form{
+    height: 300px;
+} */
