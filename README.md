@@ -1,12 +1,13 @@
 # Volunteer Web App
 
+### `Demo`
+
+![converted1](https://user-images.githubusercontent.com/55810731/113470866-78606100-940d-11eb-8ee6-ed6949637200.gif)
+![converted2](https://user-images.githubusercontent.com/55810731/113470867-7a2a2480-940d-11eb-9e06-bcff7c18bdcf.gif)
+![converted3](https://user-images.githubusercontent.com/55810731/113470869-7b5b5180-940d-11eb-9c8d-3bcec23ac42f.gif)
 
 
-
-**-Summary-**
-- Academic project | Dec 2020
-
-**-Pages-**
+### `Pages`
 
 <img height="Auto" width="700" src="https://user-images.githubusercontent.com/55810731/103256784-55706d80-4943-11eb-9901-1ba85418a231.png" />
 <img height="Auto" width="700" src="https://user-images.githubusercontent.com/55810731/103256800-5acdb800-4943-11eb-913b-805adb1ac9b0.png" />
@@ -15,11 +16,10 @@
 <img height="Auto" width="700" src="https://user-images.githubusercontent.com/55810731/103256833-7769f000-4943-11eb-8679-14348a2cb72c.png" />
 
   
-**-Task-**
+### `Task`
 -	created a fully functioned login system and data management page
 
-  
-**-Tech Stack-**
+### `Tech Stack`
 - PHP
 - My SQL
 - HTML
