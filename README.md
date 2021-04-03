@@ -17,10 +17,10 @@
 - Sign Up
 <img height="Auto" width="650" src="https://user-images.githubusercontent.com/55810731/103256808-61f4c600-4943-11eb-985a-6ead8c042c96.png" />
 
-- Login
+- Log In
 <img height="Auto" width="650" src="https://user-images.githubusercontent.com/55810731/103256819-69b46a80-4943-11eb-8240-ee9e469f0762.png" />
 
-- Manage Event
+- Manage Events
 <img height="Auto" width="650" src="https://user-images.githubusercontent.com/55810731/103256833-7769f000-4943-11eb-8679-14348a2cb72c.png" />
 
   
