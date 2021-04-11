@@ -1,5 +1,11 @@
 # Volunteer Web App
 
+### `Summary`
+Academic project | Dec 2020
+- Developer: Rina
+- UI Designer: Rina
+
+
 ### `Demo`
 
 ![converted1](https://user-images.githubusercontent.com/55810731/113470866-78606100-940d-11eb-8ee6-ed6949637200.gif)
